@@ -84,20 +84,20 @@ Key Features
 
 Repository Structure
 
-    dataset/ – Dataset used in the project.
+    dataset – Dataset used in the project.
 
-    notebooks/ – Complete Jupyter Notebook.
+    notebooks – Complete Jupyter Notebook.
 
-    src/ – Python source code.
+    src – Python source code.
 
-    results/ – Model evaluation visualizations.
+    results – Model evaluation visualizations.
 
 Disclaimer
 
 This model provides a data-driven estimate based on the available dataset. A predicted habitable classification does not establish that an exoplanet supports life.
 Author
 
-Ritik
+Shivam Gopal
 License
 
 See the repository license for usage terms.
